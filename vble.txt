@@ -1,0 +1,3 @@
+vble_1 ==> equal
+vble_2 ==> unk_x
+vble_3 ==> 3
